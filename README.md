@@ -8,4 +8,4 @@ warzone
 | Conteudo | faça um texto para meu ebook, texto simples e de fácil entendimento de algumas estratégias.  | 
 | imagem | Gere 5 imagens referente o tema acima (warzone) para ser usado no meu ebook no github.|
 
-Para ler o ebook clique em https://github.com/WSCovre/ebook/blob/main/warzone_estrategias_imagens.pptx
+Para ler o ebook clique em 
